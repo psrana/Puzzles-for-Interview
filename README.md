@@ -10,4 +10,8 @@
 8. **Puzzle-008 | <a href="https://www.youtube.com/shorts/wV2aJhbTcLo"> Click Here</a>** | Puzzles for Software Engineers | Microsoft #8
 9. **Puzzle-009 | <a href="https://www.youtube.com/shorts/1LcA_A4A-lc"> Click Here</a>** | Puzzles for Software Engineers | Amazon #9
 10. **Puzzle-010 | <a href="https://www.youtube.com/shorts/ALJ-AQpQvNM"> Click Here</a>** | Puzzles for Software Engineers | Google #10
+11. **Puzzle-011 | <a href="https://www.youtube.com/shorts/IuWO63E-Kqs"> Click Here</a>** | Puzzles for Software Engineers | Microsoft #11
 
+
+
+**Puzzle-010 | <a href=""> Click Here</a>** | Puzzles for Software Engineers | Google #10
