@@ -20,5 +20,9 @@
 18. **Puzzle-018 | <a href="https://www.youtube.com/shorts/vjeEOTI3tXU"> Click Here</a>** | Puzzles for Software Engineers | Amazon #18
 19. **Puzzle-019 | <a href="https://www.youtube.com/shorts/9j1KaGHvBEI"> Click Here</a>** | Puzzles for Software Engineers | Intuit #19
 20. **Puzzle-020 | <a href="https://www.youtube.com/shorts/7lN_YE9RZbw"> Click Here</a>** | Puzzles for Software Engineers | Google #20
+21. **Puzzle-021 | <a href="https://www.youtube.com/shorts/Eq9evcrYN1w"> Click Here</a>** | Puzzles for Software Engineers | #21
+22. **Puzzle-022 | <a href="https://www.youtube.com/shorts/UYQddvyCTVY"> Click Here</a>** | Puzzles for Software Engineers | #22
+23. **Puzzle-023 | <a href="https://www.youtube.com/shorts/r5YXCN5pJyg"> Click Here</a>** | Puzzles for Software Engineers | MakeMyTrip #23
+24. **Puzzle-024 | <a href="https://www.youtube.com/shorts/HGAw-Fqy9Lc"> Click Here</a>** | Puzzles for Software Engineers | Google #24
 
 
