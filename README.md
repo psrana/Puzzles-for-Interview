@@ -15,7 +15,6 @@
 13. **Puzzle-013 | <a href="https://www.youtube.com/shorts/1r-8fc7LMHo"> Click Here</a>** | Puzzles for Software Engineers | Google #13
 14. **Puzzle-014 | <a href="https://www.youtube.com/shorts/dIuSKJniwEM"> Click Here</a>** | Puzzles for Software Engineers | Apple #14
 15. **Puzzle-015 | <a href="https://www.youtube.com/shorts/elmI5mgY1ns"> Click Here</a>** | Puzzles for Software Engineers | Hitachi #15
+16. **Puzzle-015 | <a href="https://www.youtube.com/shorts/8GwCPCUzH1w"> Click Here</a>** | Puzzles for Software Engineers | Microsoft #16
 
 
-
-**Puzzle-010 | <a href=""> Click Here</a>** | Puzzles for Software Engineers | Google #10
