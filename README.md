@@ -1,4 +1,4 @@
-# Puzzles for Interview
+# Puzzles for Interview 
 
 1. **Puzzle-001 | <a href="https://www.youtube.com/shorts/9uOsB39DwGM"> Click Here</a>** | Puzzles for Software Engineers | Apple #1
 2. **Puzzle-002 | <a href="https://www.youtube.com/shorts/BK3vofe-dpw"> Click Here</a>** | Puzzles for Software Engineers | Microsoft #2
@@ -24,7 +24,8 @@
 22. **Puzzle-022 | <a href="https://www.youtube.com/shorts/UYQddvyCTVY"> Click Here</a>** | Puzzles for Software Engineers | #22
 23. **Puzzle-023 | <a href="https://www.youtube.com/shorts/r5YXCN5pJyg"> Click Here</a>** | Puzzles for Software Engineers | MakeMyTrip #23
 24. **Puzzle-024 | <a href="https://www.youtube.com/shorts/HGAw-Fqy9Lc"> Click Here</a>** | Puzzles for Software Engineers | Google #24
-25. **Puzzle-025 | <a href=" Interview Puzzle for Software Engineers "> Click Here</a>** |  Interview Puzzle for Software Engineers
-26. **Puzzle-025 | <a href=" Interview Puzzle for Software Engineers "> Click Here</a>** |  Interview Puzzle for Software Engineers
+25. **Puzzle-025 | <a href="https://www.youtube.com/shorts/pjvTLZTZodM"> Click Here</a>** | Puzzles for Software Engineers | Amazon #1
+26. **Puzzle-026 | <a href="https://youtu.be/BK3vofe-dpw"> Click Here</a>** | Puzzles for Software Engineers | Microsoft #1
+27. **Puzzle-027 | <a href="https://youtu.be/BWLhtTvxEqg"> Click Here</a>** | Puzzles for Software Engineers | Microsoft #2
 
 
