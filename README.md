@@ -26,9 +26,9 @@
     - **Puzzle-17 | <a href="https://www.youtube.com/shorts/vjeEOTI3tXU"> Click Here</a>** | Amazon
     - **Puzzle-18 | <a href="https://www.youtube.com/shorts/9j1KaGHvBEI"> Click Here</a>** | Intuit
     - **Puzzle-19 | <a href="https://www.youtube.com/shorts/7lN_YE9RZbw"> Click Here</a>** | Google
-    - **Puzzle-20 | <a href="https://www.youtube.com/shorts/r5YXCN5pJyg"> Click Here</a>** | MakeMyTrip #23
-    - **Puzzle-21 | <a href="https://www.youtube.com/shorts/HGAw-Fqy9Lc"> Click Here</a>** | Google #24
-    - **Puzzle-22 | <a href="https://www.youtube.com/shorts/pjvTLZTZodM"> Click Here</a>** | Amazon #1
+    - **Puzzle-20 | <a href="https://www.youtube.com/shorts/r5YXCN5pJyg"> Click Here</a>** | MakeMyTrip
+    - **Puzzle-21 | <a href="https://www.youtube.com/shorts/HGAw-Fqy9Lc"> Click Here</a>** | Google
+    - **Puzzle-22 | <a href="https://www.youtube.com/shorts/pjvTLZTZodM"> Click Here</a>** | Amazon
     - **Puzzle-23 | <a href="https://youtu.be/BK3vofe-dpw"> Click Here</a>** | Microsoft
     - **Puzzle-24 | <a href="https://youtu.be/BWLhtTvxEqg"> Click Here</a>** | Microsoft
     - **Puzzle-25 | <a href="https://www.youtube.com/shorts/u2XVO6g-paY"> Click Here</a>**
